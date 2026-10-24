@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.0",
   "apk": "https://github.com/kittkanev/Montotok-updates/releases/download/v1.2.0/Montotok-v1.2.0.apk",
-  "notes": "Test entry: in-app update flow check. Same v1.2.0 build inside.",
+  "notes": "ALPHA build \u2014 may be bugs. First public Montotok release.",
   "size": "601279790"
 }
