@@ -1,6 +1,6 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.1",
   "apk": "https://github.com/kittkanev/Montotok-updates/releases/download/v1.2.1/Montotok-v1.2.1.apk",
-  "notes": "E2E test entry on the emulator. Same v1.2.1 build inside.",
-  "size": "601279900"
+  "notes": "ALPHA build - may be bugs. Fixed: streak alarm on Android 12+, non-intrusive streak dialog, update dialog reliability. Verified on emulator.",
+  "size": "601279790"
 }
