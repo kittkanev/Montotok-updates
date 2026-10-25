@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "apk": "https://github.com/kittkanev/Montotok-updates/releases/download/v1.2.0/Montotok-v1.2.0.apk",
-  "notes": "ALPHA build \u2014 may be bugs. First public Montotok release.",
-  "size": "601279790"
+  "version": "1.2.2",
+  "apk": "https://github.com/kittkanev/Montotok-updates/releases/download/v1.2.1/Montotok-v1.2.1.apk",
+  "notes": "E2E test entry on the emulator. Same v1.2.1 build inside.",
+  "size": "601279900"
 }
